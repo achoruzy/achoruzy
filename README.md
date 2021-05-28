@@ -10,6 +10,8 @@ Welcome to my Github repo! Here you can find some of my successes, failures and 
 Where I've been till now?
 So... I've been designing, engineering and building ships. :ship: :ferry:
 
+:woman::baby::bearded_person::cat2:
+
 ### :world_map: I'm currently...
 #### :desktop_computer: working on:
 - [nupicter](https://github.com/industArk/nupicter/) - my picture filtering app, where you can type your filter kernels by hand
