@@ -5,9 +5,9 @@
 
 ![badge-python](https://img.shields.io/badge/-python-yellow?style=flat-square&logo=python)
 
-Welcome to my Github repo! Here you can find some of my successes, failures and attempts from my not-so-long path of becoming a programmer. 
+Welcome to my Github repo! Here you can find some of my successes, failures and attempts made during my not-so-long path of becoming a programmer. 
 
-Where I've been till now?
+What have I been doing till now?
 So... I've been designing, engineering and building ships. :ship: :ferry:
 
 :woman::baby::bearded_person::cat2:
@@ -18,13 +18,13 @@ So... I've been designing, engineering and building ships. :ship: :ferry:
 #### :arrow_right: next project?
 - probably something based on ML - have an idea about nordic rune reader (yes, I'm a fan of God of War francise!)
 
-#### :memo: learning:
-- Machine Learning theory - Understand basic ML models, now it's time for neural networks
-- Rust language basics - I'd love to be able to code on low-level
+#### :memo::open_book: learning:
+- Machine Learning and AI
+- Linear algebra, vectors and matrixes, geometry and graphics generating
+- Algorithms and datatypes
+- Rust language basics
 
-#### :open_book: reading about:
-- Algorithms and datatypes - I love math and all the problem solving, so what to do :man_shrugging:
-
+#### :building_construction: WIP:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
