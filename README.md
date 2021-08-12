@@ -19,7 +19,7 @@ So... I've been managing projects; designing, engineering, and building ships. :
 #### :arrow_right: thinking about next project:
 - probably something based on ML - have an idea about nordic rune reader (yes, I'm a fan of God of War francise!)
 
-#### :memo::white_heart: learning:
+#### :memo: learning:
 - Machine Learning and AI
 - Linear algebra, vectors and matrixes, geometry and graphics generating
 - Algorithms and datatypes
