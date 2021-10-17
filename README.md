@@ -16,7 +16,7 @@ So... I've been managing projects; designing, engineering, and building ships. :
 #### :desktop_computer: working on:
 - [nupicter](https://github.com/industArk/nupicter/) - PAUSED - a picture filtering app, where you can type your filter kernels by hand 
 #### :arrow_right: thinking about next project:
-- probably something based on ML - have an idea about nordic rune reader (yes, I'm a fan of God of War francise!)
+- 🤔
 #### ⏲️ projects done recently:
 - [microservices_app](https://github.com/industArk/microservices_app) - some containers on docker - let's generate a chart!
 
@@ -25,10 +25,6 @@ So... I've been managing projects; designing, engineering, and building ships. :
 - Linear algebra, vectors and matrixes, geometry and graphics generating
 - Algorithms and datatypes
 - Rust language basics
-
-### :satellite: Actively looking for a python programming job:
-- more math, physics, algorithms, etc. - better!
-- graphics, ML, AI - yeah!
 
 ### 📫 How to reach me:
 achoruzy@gmail.com - feel free to drop me a mail :)
