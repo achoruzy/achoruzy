@@ -13,6 +13,9 @@ So... I've been managing projects; designing, engineering, and building ships. :
 :woman::baby::bearded_person::cat2:
 
 ### :world_map: I'm currently...
+
+- developing my ML skills
+
 #### :desktop_computer: working on:
 - [nupicter](https://github.com/industArk/nupicter/) - PAUSED - a picture filtering app, where you can type your filter kernels by hand 
 #### :arrow_right: thinking about next project:
