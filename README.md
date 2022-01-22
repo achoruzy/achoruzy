@@ -14,20 +14,19 @@ So... I've been managing projects; designing, engineering, and building ships. :
 
 ### :world_map: I'm currently...
 
-- developing my ML skills
+- focusing on ML engineering projects at my work
 
-#### :desktop_computer: working on:
-- [nupicter](https://github.com/industArk/nupicter/) - PAUSED - a picture filtering app, where you can type your filter kernels by hand 
-#### :arrow_right: thinking about next project:
-- 🤔
+#### :desktop_computer: working on side projects:
+
+- nothing relevant at the mo
+
 #### ⏲️ projects done recently:
+
 - [microservices_app](https://github.com/industArk/microservices_app) - some containers on docker - let's generate a chart!
 
-#### :memo: learning:
-- Machine Learning and AI
-- Linear algebra, vectors and matrixes, geometry and graphics generating
-- Algorithms and datatypes
-- Rust language basics
+#### :memo: developing skills:
+- CNN and ML engineering for medical use
+- Good coding practices
 
 ### 📫 How to reach me:
 achoruzy@gmail.com - feel free to drop me a mail :)
