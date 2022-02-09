@@ -3,11 +3,11 @@
 
 <a href="https://www.linkedin.com/in/arkadiuszchoruzy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arkadiusz%20Choruzy-blue?style=flat-square&logo=linkedin"></a>
 
-![badge-python](https://img.shields.io/badge/-python-gold?style=flat-square&logo=python) ![badge-rust](https://img.shields.io/badge/-rust-darkred?style=flat-square&logo=rust) ![badge-octave](https://img.shields.io/badge/-octave-orange?style=flat-square&logo=octave)
+![badge-python](https://img.shields.io/badge/-python-gold?style=flat-square&logo=python) ![badge-rust](https://img.shields.io/badge/-rust-darkred?style=flat-square&logo=rust)
 
-Welcome to my Github repo! Here you can find some of my successes, failures and attempts made during my not-so-long path of becoming a programmer. 
+Welcome to my Github repo! I'm ML engineer and python developer. 
 
-What have I been doing till now?
+What have I been doing before?
 So... I've been managing projects; designing, engineering, and building ships. :ship: :ferry:
 
 :woman::baby::bearded_person::cat2:
