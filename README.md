@@ -3,8 +3,6 @@
 
 <a href="https://www.linkedin.com/in/arkadiuszchoruzy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arkadiusz%20Choruzy-blue?style=flat-square&logo=linkedin"></a>
 
-![badge-python](https://img.shields.io/badge/-python-gold?style=flat-square&logo=python) ![badge-rust](https://img.shields.io/badge/-rust-darkred?style=flat-square&logo=rust)
-
 Welcome to my Github repo! I'm ML engineer and python developer. 
 
 What have I been doing before?
