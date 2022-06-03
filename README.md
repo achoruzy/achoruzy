@@ -18,7 +18,7 @@ So... I've been managing projects; designing, engineering, and building ships. :
 
 #### :desktop_computer: working on side projects:
 
-- working on Omnirune - my nordic rune recognition ML app (private repo at the mo)
+- working on Omnirune - my nordic rune recognition ML app
 - working on Scyther - my open-source python lib for inteligent dataset split (private repo at the mo)
 
 #### ⏲️ projects done recently:
