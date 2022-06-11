@@ -18,8 +18,8 @@ So... I've been managing projects; designing, engineering, and building ships. :
 
 #### :desktop_computer: working on side projects:
 
-- [wtfpython_PL]([https://github.com/industArk/wtfpython_PL]) - translating this amazing project to Polishhttps://github.com/industArk/wtfpython_PL
-- [Omnirune]([https://github.com/industArk/omnirune]) - nordic rune recognition app I build for getting as much lore as possible from God of War Ragnarok
+- [wtfpython_PL](https://github.com/industArk/wtfpython_PL) - translating this amazing project to Polishhttps://github.com/industArk/wtfpython_PL
+- [Omnirune](https://github.com/industArk/omnirune) - nordic rune recognition app I build for getting as much lore as possible from God of War Ragnarok
 - Scyther - my open-source python lib for inteligent dataset split (private repo at the mo)
 
 #### ⏲️ projects done recently:
