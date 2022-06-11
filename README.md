@@ -18,15 +18,15 @@ So... I've been managing projects; designing, engineering, and building ships. :
 
 #### :desktop_computer: working on side projects:
 
-- working on Omnirune - my nordic rune recognition ML app
-- working on Scyther - my open-source python lib for inteligent dataset split (private repo at the mo)
+- [wtfpython_PL]([https://github.com/industArk/wtfpython_PL]) - translating this amazing project to Polishhttps://github.com/industArk/wtfpython_PL
+- [Omnirune]([https://github.com/industArk/omnirune]) - nordic rune recognition app I build for getting as much lore as possible from God of War Ragnarok
+- Scyther - my open-source python lib for inteligent dataset split (private repo at the mo)
 
 #### ⏲️ projects done recently:
 
 - [microservices_app](https://github.com/industArk/microservices_app) - some containers on docker - let's generate a chart! (pretty old project now)
 
 #### :memo: developing skills:
-- Exploring CS for gaining low level knowledge - C, data structures, how does it all works
 - Polishing good coding practices
 - Working on machine learning skills
 - Looking towards Rust for fun
