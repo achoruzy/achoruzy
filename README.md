@@ -28,7 +28,7 @@ So... I've been managing projects; designing, engineering, and building ships. :
 
 #### :memo: Learning:
 - Image processing and analysis / CV
-- Statistics / StatQuest + Statistical Rethinkig
+- Statistics / StatQuest + Statistical Rethinking
 - Wandb MLops course
 
 ### 📫 How to reach me:
