@@ -28,8 +28,8 @@ So... I've been managing projects; designing, engineering, and building ships. :
 
 #### :memo: Learning:
 - Image processing and analysis / CV
-- Statistics / StatQuest + Statistical Rethinking
-- Wandb MLops course
+- Statistical Rethinking
+
 
 ### 📫 How to reach me:
 achoruzy@gmail.com - feel free to drop me a mail :)
