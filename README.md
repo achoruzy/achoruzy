@@ -19,16 +19,17 @@ So... I've been managing projects; designing, engineering, and building ships. :
 #### :desktop_computer: working on side projects:
 
 - [wtfpython_PL](https://github.com/industArk/wtfpython_PL) - translating this amazing project to Polish language
-- [Omnirune](https://github.com/industArk/omnirune) - nordic rune recognition app I build for getting as much lore as possible from God of War Ragnarok
-- Scyther - my open-source python lib for inteligent dataset split (private repo at the mo)
+
 
 #### ⏲️ projects done recently:
 
+- [Omnirune](https://github.com/industArk/omnirune) - nordic rune recognition app I've built for getting as much lore as possible from God of War Ragnarok
 - [microservices_app](https://github.com/industArk/microservices_app) - some containers on docker - let's generate a chart! (pretty old project now)
 
 #### :memo: Learning:
-- Image processing and analysis / CV
-- Statistical Rethinking
+- C++
+- Rust
+- Game dev
 
 
 ### 📫 How to reach me:
