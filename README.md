@@ -5,32 +5,17 @@
 
 Welcome to my Github repo! 
 
-I work as ML engineer and python developer. 
+I work as a R&D and tool developer in game dev using Python and a bit of C++ and Rust.
 
 What have I been doing before?
 So... I've been managing projects; designing, engineering, and building ships. :ship: :ferry:
+And... Doing some ML engineering
 
 :woman::baby::bearded_person::cat2:
 
 ### :world_map: I'm currently...
 
-- Working as a ML Engineer in RSQ Technologies with medical imaging domain using mostly python with pytorch
-
-#### :desktop_computer: working on side projects:
-
-- [wtfpython_PL](https://github.com/industArk/wtfpython_PL) - translating this amazing project to Polish language
-
-
-#### ⏲️ projects done recently:
-
-- [Omnirune](https://github.com/industArk/omnirune) - nordic rune recognition app I've built for getting as much lore as possible from God of War Ragnarok
-- [microservices_app](https://github.com/industArk/microservices_app) - some containers on docker - let's generate a chart! (pretty old project now)
-
-#### :memo: Learning:
-- C++
-- Rust
-- Game dev
-
+- Working as a Python Developer at OddInn / Chronospace where I develop tools for game development
 
 ### 📫 How to reach me:
 achoruzy@gmail.com - feel free to drop me a mail :)
