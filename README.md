@@ -14,9 +14,9 @@ So... I've been managing projects; designing, engineering, and building ships. :
 
 ### :world_map: What I work on currently:
 
-- R&D Python Engineer at OddInn Studio where I develop tools for game development and 3D artists.
-- C# Unity Developer at Chronospace where I develop games.
-- C, C++ and Unreal Engine 5 as side quests.
+- Game developer (Unreal Engine 5 and  Unity Developer) at Chronospace
+- C, C++, C#, Python
+- R&D Engineer at OddInn Studio where I develop tools for game development and 3D artists.
 
 ### 📫 How to reach me:
 achoruzy@gmail.com - feel free to drop me a mail :)
